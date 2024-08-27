@@ -1,2 +1,2 @@
-generate.sh - Mon Jan  8 23:53:31 EST 2024 - maoueh
-streamingfast/firehose-acme/proto revision: 1e24bd4
+generate.sh - Tue Aug 27 03:50:39 PM UTC 2024 - gitpod
+streamingfast/firehose-acme/proto revision: b03c6d4

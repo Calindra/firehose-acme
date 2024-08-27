@@ -41,7 +41,7 @@ function generate() {
 
     for file in "$@"; do
       protoc -I$PROTO_ACME \
-        --go_out=. --go_opt=paths=source_relative \
+        --go_out=. --go_opt=paths=source_relative --experimental_allow_proto3_optional \
          $base$file
     done
 }
